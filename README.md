@@ -1,9 +1,8 @@
 # 732A94_Advanced_R
-Linköping University, 1st semester 2019
+LinkÃ¶ping University, 1st semester 2019
 
 ## Intended learning outcomes
 
-After completion of the course the student should on an advanced level be able to:
 
 - write R programs based on programming techniques such as reading data from file or 
 Internet, assignment and manipulation of data structures, defining own functions, 
